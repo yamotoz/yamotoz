@@ -27,6 +27,8 @@
 
 <img src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">
 
+![snake animation](https://github.com/yamotoz/yamotoz/blob/main/.github/workflows/blank.yml)
+
 
 
           

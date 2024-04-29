@@ -1,4 +1,7 @@
 ## Olá, me chamo Miguel oliveira. 
+-   Im studing often shell script and using kali linux
+-   I like surf and natureza
+-   My dream is become a father in the future
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yamotoz&show_icons=true&theme=transparent" />
@@ -19,7 +22,12 @@
 <div>
  
   <a href="https://br.linkedin.com/in/miguel-oliveira-5a9a6b264" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/miguel_yamoto/?next=%2F" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">  </a>
 </div>
+
+<img src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">
+
+
 
           
 

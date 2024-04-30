@@ -25,7 +25,7 @@
   <a href="https://www.instagram.com/miguel_yamoto/?next=%2F" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">  </a>
 </div>
 
-<img src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">
+
 
  ![snake gif](https://github.com/yamotoz/yamotoz/blob/output/github-contribution-grid-snake.gif)
 

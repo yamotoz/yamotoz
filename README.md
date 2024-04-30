@@ -4,10 +4,10 @@
 -   My dream is become a father in the future
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yamotoz&show_icons=true&theme=transparent" />
+  
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yamotoz&show_icons=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yamotoz&show_icons=true&theme=transparent" />  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yamotoz&show_icons=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height=30 width=40 />

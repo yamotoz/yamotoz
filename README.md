@@ -1,4 +1,4 @@
-## Olá, me chamo Miguel oliveira. 
+## Hello, my name is Miguel oliveira. 
 -   Im studing often shell script and using kali linux
 -   I like surf and natureza
 -   My dream is become a father in the future

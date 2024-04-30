@@ -26,7 +26,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height=30 width=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original-wordmark.svg"  height=30 width=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-plain-wordmark.svg"  height=30 width=40 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" height=30 width=40 />
           
           
           

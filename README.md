@@ -28,6 +28,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original-wordmark.svg"  height=30 width=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-plain-wordmark.svg"  height=30 width=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" height=30 width=40 />
+<a href="https://tryhackme.com/p/Yamotoz" target="_blank"><img src="src/tryhackme.png"  height=50 width=60></a>
 </div>
 
 ## contact

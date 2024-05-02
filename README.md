@@ -7,6 +7,7 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamotoz&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamotoz&layout=compact&theme=radical)
 
+<a href="https://tryhackme.com/p/Yamotoz" target="_blank"><img src="src/tryhackme.png"  height=100 width=150></a>
 ## Skills:
 
 <div>
@@ -28,7 +29,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original-wordmark.svg"  height=30 width=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-plain-wordmark.svg"  height=30 width=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" height=30 width=40 />
-<a href="https://tryhackme.com/p/Yamotoz" target="_blank"><img src="src/tryhackme.png"  height=100 width=150></a>
 </div>
 
 ## contact
